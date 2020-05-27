@@ -1,13 +1,13 @@
-# Django Websites
-Django Websites is django admin like.
+# Django Trumbowyg
+Trumbowyg.js implementation
 
 ## Installation
 ```
-$ pip install django_websites
+$ pip install django_trumbo
 ```
 or
 ```
-$ pip install git+https://github.com/sasriawesome/django_websites.git#egg=django-websites
+$ pip install git+https://github.com/sasriawesome/django_trumbo.git#egg=django-trumbo
 ```
 
 ## Usage
